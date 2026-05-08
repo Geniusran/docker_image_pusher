@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 teambraker/braker3:v3.0.10
+higlass/higlass-docker
